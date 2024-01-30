@@ -1,3 +1,4 @@
+![](https://res.cloudinary.com/dnfecsurp/image/upload/v1706649967/capstone-project/repo_header_hdzidi.png)
 # PC Gaming Industry Analysis - Capstone Project LHL
 
 
