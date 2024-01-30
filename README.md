@@ -12,21 +12,23 @@ Stakeholders in the gaming industry can benefit from this analysis by developing
 This dataset is compiled from information gathered on Steam Store, the largest PC gaming platform. It encompasses data from over 85,000 games, offering details on various aspects such as genre and the estimated number of owners.
 
 
-## Top Games
+## The Analysis
 
-### Key Findings
+### Top Games
+
+#### Key Findings
 - Action is the most common genre across all four visualizations for the top 10 games.
 - The majority of the top 10 games in these visualizations feature some form of multiplayer option.
 
-### Outliers
+#### Outliers
 - Hogwarts Legacy boasts the highest Concurrent Connected Users (CCU); however, it is the only top 10 game without any multiplayer option.
 - The two games with the highest Metacritic Scores are single-player RPGs, differing from the rest of the ranking, which consists mostly of action games with multiplayer options.
 
 ![](https://res.cloudinary.com/dnfecsurp/image/upload/v1706646156/capstone-project/Top_Games_jkcfg7.png)
 
-## Top Genres
+### Top Genres
 
-### Key Findings
+#### Key Findings
 - *Dominance of Action Genre:* Action is overwhelmingly the most common genre on the platform, serving as the main genre for a staggering 33,388 games.
 - Positive Reviews and Action Genre: Reflecting its prevalence, the Action genre not only has the highest number of games but also the highest number of positive reviews.
 - *Adventure Genre's Standout Performance:* Adventure secures the second-highest position in the number of games, positive reviews, and Metacritic score, showcasing its significant presence and positive reception.
@@ -34,9 +36,9 @@ This dataset is compiled from information gathered on Steam Store, the largest P
 
 ![](https://res.cloudinary.com/dnfecsurp/image/upload/v1706646155/capstone-project/Top_Genres_eimtpc.png)
 
-## Release Dates Trend and Forecast
+### Release Dates Trend and Forecast
 
-### Key Findings
+#### Key Findings
 - *Seasonal Release Trends:* The Release Date Trend analysis reveals a consistent pattern. The beginning of the year tends to be the least busy, followed by a gradual increase in game releases. There is a slight dip in the summer month of June.
 - *October: The Peak Month:* Confirming a well-known industry trend, the Release Date Trend graph highlights that October is consistently the peak month for game releases.
 - *Historical Release Patterns:* Since its launch in 2003, the platform has witnessed a continuous increase in the number of games released each year. The only exceptions are slight decreases observed in 2010, 2011, and 2019.
@@ -44,16 +46,21 @@ This dataset is compiled from information gathered on Steam Store, the largest P
 
 ![](https://res.cloudinary.com/dnfecsurp/image/upload/v1706646155/capstone-project/Released_Dates_Trend_And_Forecast_ccqxbf.png)
 
-## Price
+### Price
 
-### Key Findings
+#### Key Findings
 - The graph Games by Price illustrates that a significant portion of games on the platform falls within the $20 or less price range.
 
 ![](https://res.cloudinary.com/dnfecsurp/image/upload/v1706646155/capstone-project/Price_aloml6.png)
 
-## Top Publishers
+### Top Publishers
 
-### Key Findings
+#### Key Findings
 - The top two publishers, while leading in the total number of games released, experience a shift to the bottom of the list when sorted by positive reviews. This suggests that these publishers release a significant quantity of games, but the overall popularity and positive reception of their titles may vary.
 
 ![](https://res.cloudinary.com/dnfecsurp/image/upload/v1706646155/capstone-project/Top_Publishers_d4jmdv.png)
+
+
+## Conclusion
+
+This PC Gaming Industry Analysis delves into diverse aspects, unraveling genre dominance, release trends, and publisher dynamics on Steam. Stakeholders can use the insights for better strategic decisions. Notably, the prevalence of action games, seasonal release patterns, and the nuanced impact of top publishers highlight the industry's intricacies. The forecasted upward trajectory signals a dynamic future, urging continual adaptation. These findings show the diverse and evolving nature of the gaming industry, emphasizing the need for a well-rounded perspective.
