@@ -10,8 +10,11 @@ Stakeholders in the gaming industry can benefit from this analysis by developing
 
 ## The Dataset
 
-This dataset is compiled from information gathered on Steam Store, the largest PC gaming platform. It encompasses data from over 85,000 games, offering details on various aspects such as genre and the estimated number of owners.
+This [dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset) is compiled from information gathered on Steam Store, the largest PC gaming platform. It encompasses data from over 85,000 games, offering details on various aspects such as genre and the estimated number of owners. 
 
+## Tech Stack
+
+Excel  /  Python  /  Jupyter Notebook  /  Tableau
 
 ## The Analysis
 
@@ -64,4 +67,4 @@ This dataset is compiled from information gathered on Steam Store, the largest P
 
 ## Conclusion
 
-This PC Gaming Industry Analysis delves into diverse aspects, unraveling genre dominance, release trends, and publisher dynamics on Steam. Stakeholders can use the insights for better strategic decisions. Notably, the prevalence of action games, seasonal release patterns, and the nuanced impact of top publishers highlight the industry's intricacies. The forecasted upward trajectory signals a dynamic future, urging continual adaptation. These findings show the diverse and evolving nature of the gaming industry, emphasizing the need for a well-rounded perspective.
+This analysis provides a deep look into the PC gaming world on Steam. Stakeholders can use the insights for better decisions. Notably, action games dominate, releases peak in October, and top publishers' popularity varies. The forecast suggests more games ahead. These findings show the diverse and evolving nature of the gaming industry, emphasizing the need for a well-rounded perspective.
